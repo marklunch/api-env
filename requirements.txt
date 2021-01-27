@@ -1,0 +1,9 @@
+asgiref==3.3.1
+Django==3.0.2
+pip==20.3.1
+pytz==2020.5
+setuptools==51.0.0
+sqlparse==0.4.1
+wheel==0.36.1
+djangorestframework
+#
